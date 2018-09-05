@@ -1,0 +1,73 @@
+body {
+  background: red;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+
+.card-1 {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  margin-top: 1.5rem;
+  position: relative;
+  width: 100%;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.ul1 {
+    padding:0;
+    list-style: none;
+}
+.ul1 social-icons {
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+
+/* The actual content  #EAF1F3*/
+.content {
+  padding: 20px 30px;
+  background-color: #FFF  ;
+
+  position: relative;
+  border-radius: 6px;
+}
+
+.main-content{
+  padding: 5%;
+  background-color: #fff  ;
+  position: relative;
+  border-radius: 6px;
+}
+
+.skill{
+  padding-top: 4%;
+}
+
+.list-item{
+  padding-top: 25px;
+  color: black;
+}
+
+
